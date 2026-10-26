@@ -1,0 +1,2 @@
+# AI-BASED-TECHNICAL-CODE-EXPLANATION-AND-DOCUMENTATION-SYSTEM
+The AI-Based Technical Code Explanation and Documentation System is a web-based application designed to help students, programmers, and software developers understand source code easily and generate technical documentation automatically. Understanding complex code and preparing documentation manually can be time-consuming, especially for beginners.
